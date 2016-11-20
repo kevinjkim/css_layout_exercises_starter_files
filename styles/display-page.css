@@ -1,0 +1,55 @@
+
+.main-box {
+	width: 800px;
+	margin: auto;
+	background-color: yellow;
+	font-size: 0;
+}
+
+.upper {
+	height: 200px;
+}
+
+.lower {
+	height: 300px;
+}
+
+.green-box {
+	background-color: green;
+	height: inherit;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.blue-box {
+	background-color: blue;
+	height: inherit;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.grey-box {
+	background-color: grey;
+	height: inherit;
+	width: calc(100%/3);
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.black-box {
+	background-color: black;
+	height: inherit;
+	width: calc(100%/3);
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.orange-box {
+	background-color: orange;
+	height: inherit;
+	width: calc(100%/3);
+	display: inline-block;
+	border: 1px solid black;
+}
